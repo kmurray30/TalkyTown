@@ -1,0 +1,15 @@
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/bin/Debug/net7.0/TalkyTown
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/bin/Debug/net7.0/TalkyTown.deps.json
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/bin/Debug/net7.0/TalkyTown.runtimeconfig.json
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/bin/Debug/net7.0/TalkyTown.dll
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/bin/Debug/net7.0/TalkyTown.pdb
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/obj/Debug/net7.0/TalkyTown.csproj.AssemblyReference.cache
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/obj/Debug/net7.0/TalkyTown.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/obj/Debug/net7.0/TalkyTown.AssemblyInfoInputs.cache
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/obj/Debug/net7.0/TalkyTown.AssemblyInfo.cs
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/obj/Debug/net7.0/TalkyTown.csproj.CoreCompileInputs.cache
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/obj/Debug/net7.0/TalkyTown.dll
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/obj/Debug/net7.0/refint/TalkyTown.dll
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/obj/Debug/net7.0/TalkyTown.pdb
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/obj/Debug/net7.0/TalkyTown.genruntimeconfig.cache
+/Users/kylemurray/Projects/TalkyTown/TalkyTown/obj/Debug/net7.0/ref/TalkyTown.dll
