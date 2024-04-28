@@ -3,6 +3,8 @@ namespace TalkyTown
 {
 	public class Person: Being 
 	{
+		// Metadata
+		int level; // This is how many levels down from the TrueView, where a true person is 0, a person as defined in their WV is 1, and a person in that person's WV is 2
 		// Basic
 		String name;
 
@@ -28,6 +30,16 @@ namespace TalkyTown
         Dictionary<Person, Relationship> relationships;
 
 		// Other: family tree? event timelines? object relationships? Domiciles?
+
+		/* Notes:
+		 * Fear of love/intimacy, how to model? (eg one might objectively catch romantic feelings, but react by percieving themselves as afraid of this person)
+		 * Should track likes and dislikes
+		 *	Activities / hobbies
+		 *	objects liked
+		 * 
+		 * 
+		 */
+
 
 		// Tasks: things the character plans to do
 		SortedList<int, Action> tasks;
